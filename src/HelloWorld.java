@@ -17,8 +17,8 @@ public class HelloWorld {
         double electron_mass = 9.1093837015e-31;
 
 
-
-
+        // using escape sequences to allow the use of double quotes within a string
+        System.out.println("They said \"Don't do it\"");
 
 
     }
